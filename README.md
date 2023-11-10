@@ -1,5 +1,5 @@
-# Welcome!
+# Welcome! I'm Jacob Cassidy
 
-My name is Jacob Cassidy and I've been a professional front-end developer for over a decade. It's been an incredible journey working with a diverse range of companies, from Fortune 500 brands, to mom-and-pop shops, and everything in between. Currently, I freelance as a software consultant for several companies and am looking to transition into a single full-time role on a team that’s passionate about their projects. 
+With a rich professional journey spanning 15 years, I have cultivated deep expertise as a software engineer, collaborating with an eclectic mix of clients — from illustrious Fortune 500 brands to cherished local businesses, and many more in between. A curated selection of my work is available for viewing in [my portfolio](https://portfolio.jacobcassidy.com).
 
-You can [view my portfolio](https://portfolio.jacobcassidy.com), [download my resume](https://jacobcassidy.com/docs/jacob-cassidy-resume.pdf), and contact me at [hello@jacobcassidy.com](mailto:hello@jacobcassidy.com) for more information.
+Currently, I lend my skills as a software consultant and engineer to a variety of select projects. Should you be interested in discussing potential development opportunities, I warmly invite you to contact me at [hello@jacobcassidy.com](mailto:hello@jacobcassidy.com). Let's explore how my expertise can align with your vision and bring your projects to fruition.
